@@ -1,6 +1,8 @@
 # Pattern-Recognition-and-ANN
 Using pattern recognition and Artificial Neural Network for controlling vehicle in 3D Games.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/o0NExmefbBY/0.jpg)](https://www.youtube.com/watch?v=o0NExmefbBY)
+
 ## HOW IT WORKS
 ### Image Processing
 ![alt_text](http://teemstudios.net/wp-content/uploads/2019/04/flowchart.png)
